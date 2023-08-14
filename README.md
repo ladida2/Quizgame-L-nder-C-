@@ -1,3 +1,3 @@
 # Quizgame-L-nder-C-
-C# Schoolprojct
+C# Schoolprojct, 
 sicherung.sql ist die Datenbank die verwendet wurde
