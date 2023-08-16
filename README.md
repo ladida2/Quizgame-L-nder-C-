@@ -1,3 +1,3 @@
 # Quizgame-Laender-C-
-C# Schoolprojct, 
+C# Schoolproject, 
 sicherung.sql ist die Datenbank die verwendet wurde
